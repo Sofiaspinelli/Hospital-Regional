@@ -34,6 +34,7 @@ Carolina Dicciaca
 De San Justo, La Matanza. Licenciada en Relaciones Públicas. Estudiante de abogacía aunque ahora no puedo dedicarle a la carrera el tiempo que requiere.
 
 Melina Labra
+19 años. Desarrolladora Web Full Stack graduada en Digital House. Actualmente cursando Testing con Mindhub y Accenture.
 
 Damian Fernandez
 Programador fullstack graduado de Formar. Actualmente, cursando en MindHub con Accenture, especializándome en testing QA.

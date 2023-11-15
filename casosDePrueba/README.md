@@ -16,10 +16,9 @@ Se deberia poder escribir hasta 50 caracteres por campo (nombre_paciente, nombre
 ### Resultado obtenido
 Al escribir mas de 50 caracteres nos devuelve un error. Solo nos deja cargar 50 caracteres.
 ### Imagen
-![Pacientes](/casosDePrueba/images\Pacientes1.png)
-![Especialidad](/casosDePrueba/images\especialidad-nombre.png)
+![Pacientes](/casosDePrueba/images/Pacientes1.png)
+![Especialidad](/casosDePrueba/images/especialidad-nombre.png)
 
-=============
 
 # Validar campos requeridos
 
@@ -39,7 +38,6 @@ Se debería cumplir con la restriccion de cada campo en especifico
 ### Resultado obtenido
 Se cumple con las normas de cada tipo de dato.
 
-=============
 
 # Validar que el campo de edad acepte solo 2 digitos
 
@@ -61,7 +59,6 @@ Error: CHECK constraint failed: LENGTH(edad) = 2 AND edad >= 1 AND edad <= 99
 ### Imagen
 ![](/casosDePrueba/images/Edad.png)
 
-=============
 
 # Validar que el campo del numero de asociado de obra social se registre correctamente
 

@@ -19,7 +19,7 @@ Este caso de prueba verifica la capacidad del sistema para agregar un nuevo turn
 Se espera que el sistema registre el nuevo turno en la base de datos correctamente.
 
 ### Imagen
-![Imagen del Caso de Prueba 1](/Casos-De-Pruebas/capshot1.png)
+![Imagen del Caso de Prueba 1](/Casos-De-Pruebas/Imagenes/capshot1.png)
 ---
 
 ## Caso de Prueba 2: [Validar que se especifique el horario del turno medico]
@@ -38,7 +38,7 @@ Se espera que el sistema registre el nuevo turno en la base de datos correctamen
 [Se espera que el sistema registre el nuevo turno en la base de datos correctamente.]
 
 ### Imagen
-![Imagen del Caso de Prueba 2](/Casos-De-Pruebas/capshot2.png)
+![Imagen del Caso de Prueba 2](/Casos-De-Pruebas/Imagenes/capshot2.png)
 
 ---
 
@@ -67,4 +67,4 @@ Se espera que el sistema registre el nuevo turno en la base de datos correctamen
 [Se espera que el sistema devuelva correctamente la información detallada de turnos, pacientes y médicos.]
 
 ### Imagen
-![Imagen del Caso de Prueba 3](/Casos-De-Pruebas/Capshot4.png)
+![Imagen del Caso de Prueba 3](/Casos-De-Pruebas/Imagenes/Capshot3.png)
